@@ -6,7 +6,7 @@ This repository has both the source of [the paper](https://doi.org/10.1016/j.ent
 
 * The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010).
 
-* The directory [source](source) has various Agda files:
+1. The directory [source](source) has various Agda files:
 
   1. [laconic-dialogue](source/laconic-dialogue.lagda) is the above literate Agda file with the comments removed. This works with the combinatory combinatory version of system T.
 
@@ -22,4 +22,4 @@ This repository has both the source of [the paper](https://doi.org/10.1016/j.ent
 
   1. [dialogue-to-brouwer](dialogue-to-brouwer.lagda), by Paulo Oliva and me (2017) converts from dialogue trees to Brouwer trees.
 
-* [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
+1. [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
