@@ -2,11 +2,11 @@ We use techniques from denotational semantics to prove the well-known fact that 
 
 This repository has both the source of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010) and associated Agda files.
 
-1. [How to cite this paper](HowToCite.bib)
+* [How to cite this paper](HowToCite.bib)
 
-1. The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010).
+* The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010).
 
-1. The directory [source](source) has various Agda files:
+* The directory [source](source) has various Agda files:
 
   1. [laconic-dialogue](source/laconic-dialogue.lagda) is the above literate Agda file with the comments removed. This works with the combinatory combinatory version of system T.
 
@@ -22,4 +22,4 @@ This repository has both the source of [the paper](https://doi.org/10.1016/j.ent
 
   1. [dialogue-to-brouwer](dialogue-to-brouwer.lagda), by Paulo Oliva and me (2017) converts from dialogue trees to Brouwer trees.
 
-1. [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
+* [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
