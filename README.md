@@ -16,4 +16,8 @@ We use techniques from denotational semantics to prove the well-known result tha
 
   1. [church-dialogue-internal](dialogue-lambda-internal.lagda) variation of the above.
 
+  1. [dialogue-without-oracle](dialogue-without-oracle.lagda) is a file by Vincent Rahli (2015) that shows how to get rid of the use of oracles.
+
+  1. [dialogue-to-brouwer][dialogue-to-brouwer.lagda], by Paulo Oliva and me (2017) converts from dialogue trees to Brouwer trees.
+
 * [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
