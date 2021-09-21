@@ -20,6 +20,6 @@ This repository has both the source of [the paper](https://doi.org/10.1016/j.ent
 
   1. [dialogue-without-oracle](source/dialogue-without-oracle.agda) is a file by Vincent Rahli (2015) that shows how to get rid of the use of oracles.
 
-  1. [dialogue-to-brouwer][dialogue-to-brouwer.lagda], by Paulo Oliva and me (2017) converts from dialogue trees to Brouwer trees.
+  1. [dialogue-to-brouwer](dialogue-to-brouwer.lagda), by Paulo Oliva and me (2017) converts from dialogue trees to Brouwer trees.
 
 * [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
