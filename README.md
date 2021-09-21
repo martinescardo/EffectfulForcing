@@ -2,9 +2,9 @@ We use techniques from denotational semantics to prove the well-known fact that 
 
 This repository has both the source of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010) and associated Agda files.
 
-* [How to cite this paper](HowToCite.bib)
+1. [How to cite this paper](HowToCite.bib)
 
-* The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010).
+1. The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010).
 
 1. The directory [source](source) has various Agda files:
 
