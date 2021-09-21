@@ -1,10 +1,12 @@
 We use techniques from denotational semantics to prove the well-known fact that the Gödel's System T definable functions on the Baire type (ℕ → ℕ) with values on the natural numbers are continuous, and their retriction to the Cantor type (ℕ → 𝟚) are uniformly continuous.
 
+This repository has both the paper and associated Agda files.
+
 * Cite as M. H. Escardó. "Continuity of Godel's system T functionals via effectful forcing". Proceedings of MFPS'2013. Electronic Notes in Theoretical Computer Science 01/2013, volume 298, pages 119-141.
 
 * The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of the [paper](https://www.cs.bham.ac.uk/~mhe/dialogue/dialogue.pdf).
 
-* The directory [source](source) has various agda files:
+* The directory [source](source) has various Agda files:
 
   1. [laconic-dialogue](source/laconic-dialogue.lagda) is the above literate Agda file with the comments removed. This works with the combinatory combinatory version of system T.
 
