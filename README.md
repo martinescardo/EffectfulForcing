@@ -20,4 +20,4 @@ We use techniques from denotational semantics to prove the well-known result tha
 
   1. [dialogue-to-brouwer][dialogue-to-brouwer.lagda], by Paulo Oliva and me (2017) converts from dialogue trees to Brouwer trees.
 
-* [Renderings in html](source/https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
+* [Renderings in html](https://www.cs.bham.ac.uk/~mhe/dialogue/) at my institutional web page.
