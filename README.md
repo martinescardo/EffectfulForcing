@@ -1,4 +1,4 @@
-We use techniques from denotational semantics to prove the well-known result that the Gödel's System T definable functions on the Baire type (ℕ → ℕ) with values on the natural numbers are continuous, and their retriction to the Cantor type (ℕ → 𝟚) are uniformly continuous.
+We use techniques from denotational semantics to prove the well-known fact that the Gödel's System T definable functions on the Baire type (ℕ → ℕ) with values on the natural numbers are continuous, and their retriction to the Cantor type (ℕ → 𝟚) are uniformly continuous.
 
 * Cite as M. H. Escardó. "Continuity of Godel's system T functionals via effectful forcing". Proceedings of MFPS'2013. Electronic Notes in Theoretical Computer Science 01/2013, volume 298, pages 119-141.
 
