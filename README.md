@@ -2,7 +2,7 @@ We use techniques from denotational semantics to prove the well-known fact that 
 
 This repository has both the source of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010) and associated Agda files.
 
-* Cite as M. H. Escardó. "Continuity of Godel's system T functionals via effectful forcing". Proceedings of MFPS'XXIX. Electronic Notes in Theoretical Computer Science, volume 298, pages 119-141, 4 November 2013, edited by Dexter Kozen and Michael Mislove.
+* [How to cite this paper](HowToCite.bib)
 
 * The directory [latex](latex) has the literate Agda file that generates the latex file and the pdf file of [the paper](https://doi.org/10.1016/j.entcs.2013.09.010).
 
